@@ -20,7 +20,7 @@ Demo live at: [demo.vercel.store](https://demo.vercel.store/)
 
 ## Run minimal version locally
 
-> To run a minimal version of Next.js Commerce you can start with the default local provider `@vercel/commerce-local` that has all features disabled (cart, auth) and uses static files for the backend
+> To run a minimal version of Next.js Commercee you can start with the default local provider `@vercel/commerce-local` that has all features disabled (cart, auth) and uses static files for the backend
 
 ```bash
 pnpm install & pnpm build # run these commands in the root folder of the mono repo
